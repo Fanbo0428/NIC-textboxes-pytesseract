@@ -4,6 +4,8 @@
 3.[Test](#Test)
 4.[Train](#Train)
 5.[FAQs](#FAQs)
+
+
 #Introductions
 This directory contains code on the NIC+TextBoxes+Tesseract model mentioned in report. See the corresponding part of the report for details. 
 #Installation
